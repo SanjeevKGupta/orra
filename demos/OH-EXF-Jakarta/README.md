@@ -2,6 +2,10 @@
 Deployment files for running EdgeX Jakarta with the onvif device service, as well
 as Intel's Edge Video Analytics on the Open Horizon platform.
 
+- IEAM
+- Scale Computing 
+- Intel NUC
+
 ## Environment
 The following environment variables **must** be set in order to run the make scripts.
 ```shell
